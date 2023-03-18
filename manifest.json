@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Text Summarizer and Commenter",
+  "version": "1.0",
+  "description": "A Chrome extension that uses OpenAI API to summarize or comment on the selected text.",
+  "permissions": [
+    "contextMenus",
+    "storage",
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "options_page": "options.html"
+}
+
