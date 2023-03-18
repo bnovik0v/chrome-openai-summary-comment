@@ -9,19 +9,20 @@ This Chrome extension allows users to generate summaries and comments on selecte
 - Display the generated summary or comment as a pop-up on the web page
 - Customizable API key setting
 
-## Installation
+## Download & Installation
 
-1. Clone this repository to your local machine:
+1. Go to the [Releases](https://github.com/bnovik0v/chrome-openai-summary-comment/releases) section of this repository and download the latest `chrome-openai-summary-comment.zip` file.
 
-2. git clone https://github.com/your-username/chrome-openai-summary-comment.git
+2. Extract the contents of the `.zip` file to a folder on your computer.
 
 3. Open Chrome and navigate to `chrome://extensions/`.
 
 4. Enable "Developer mode" by toggling the switch in the top right corner.
 
-5. Click "Load unpacked" and select the directory where you cloned this repository.
+5. Click "Load unpacked" and select the folder where you extracted the extension files.
 
 6. The extension should now be installed and ready for use.
+
 
 ## Usage
 
