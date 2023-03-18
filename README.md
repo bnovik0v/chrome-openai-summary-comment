@@ -80,6 +80,25 @@ Select the text you want to summarize, right-click to open the context menu, and
 
 ![Screenshot 2](https://github.com/bnovik0v/chrome-openai-summary-comment/blob/main/screenshots/summary-example1.jpg)
 
+## Roadmap
+
+We have several improvements planned for the Chrome OpenAI Summary and Comment Extension. Our goal is to enhance its features, usability, and performance while maintaining its simplicity. The roadmap includes:
+
+1. **Publish to the Chrome Web Store**: We plan to make the extension available on the Chrome Web Store, making it easier for users to discover and install it.
+
+2. **Improved AI Models**: We will continuously update the extension to use the latest OpenAI models, ensuring better summary and comment generation.
+
+3. **User Interface Enhancements**: We will work on refining the user interface for better user experience, including customizable settings and more accessible options.
+
+4. **Additional Language Support**: We plan to expand the extension's language support to cater to a wider audience, providing summaries and comments in multiple languages.
+
+5. **Performance Optimization**: We will optimize the extension's performance to ensure faster and more efficient API calls and user interactions.
+
+6. **Community Contributions**: As an open-source project, we welcome community feedback and contributions to help improve the extension further.
+
+By following this roadmap, we aim to create a more powerful and user-friendly Chrome extension that will benefit its users in various ways. Stay tuned for updates!
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
