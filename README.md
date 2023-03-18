@@ -34,6 +34,20 @@ This Chrome extension allows users to generate summaries and comments on selecte
 
 4. To set your OpenAI API key, right-click the extension icon in the toolbar and select "Options". Enter your API key and save the settings.
 
+### Demo
+
+#### Comment it
+
+Select the text you want to comment on, right-click to open the context menu, and click on the "Comment it" button. A popup message will appear with a generated comment based on the selected text.
+
+![Screenshot 1](https://github.com/bnovik0v/chrome-openai-summary-comment/blob/main/screenshots/comment-example1.jpg)
+
+#### Summarize it
+
+Select the text you want to summarize, right-click to open the context menu, and click on the "Summarize it" button. A popup message will appear with a summary of the selected text.
+
+![Screenshot 2](https://github.com/bnovik0v/chrome-openai-summary-comment/blob/main/screenshots/summary-example1.jpg)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
