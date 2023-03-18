@@ -23,6 +23,19 @@ This Chrome extension allows users to generate summaries and comments on selecte
 
 6. The extension should now be installed and ready for use.
 
+## Obtaining an OpenAI API Token
+
+To use this Chrome extension, you will need an OpenAI API token. Follow these steps to obtain one:
+
+1. Sign up for an OpenAI account at [https://beta.openai.com/signup/](https://beta.openai.com/signup/). If you already have an account, log in at [https://beta.openai.com/login/](https://beta.openai.com/login/).
+
+2. Once logged in, go to the [API Keys](https://beta.openai.com/account/api-keys) section of your account.
+
+3. Click on the "Create an API Key" button to generate a new API token. You will see a string that starts with `sk-`. This is your API token.
+
+4. Copy the API token and paste it into the extension's settings page, as described in the "Usage" section of this `README.md`.
+
+⚠️ **Important**: Keep your API token secure, as it provides access to your OpenAI account and API usage. Do not share it with anyone or include it in your code or version control.
 
 ## Usage
 
