@@ -9,6 +9,25 @@ This Chrome extension allows users to generate summaries and comments on selecte
 - Display the generated summary or comment as a pop-up on the web page
 - Customizable API key setting
 
+## Advantages of Using This Extension
+
+There are several benefits to using this Chrome OpenAI Summary and Comment Extension:
+
+1. **Free**: This extension is completely free to use, making it accessible to everyone.
+
+2. **No Ads**: We don't show any ads, ensuring a clean and distraction-free user experience.
+
+3. **Easy to Use**: With just a few clicks, you can generate summaries or comments on any text you select.
+
+4. **Open Source**: The project is open-sourced and hosted on GitHub, so anyone can view, use, or contribute to the code.
+
+5. **Powered by OpenAI**: The extension leverages OpenAI's advanced language model, ChatGPT, to generate high-quality summaries and comments.
+
+6. **Privacy-Focused**: The extension does not store or share your data, and all API calls are made directly to OpenAI's API.
+
+By using this extension, you can enjoy a seamless, ad-free experience while taking advantage of advanced AI technology to quickly generate summaries and comments on the web.
+
+
 ## Download & Installation
 
 1. Go to the [Releases](https://github.com/bnovik0v/chrome-openai-summary-comment/releases) section of this repository and download the latest `chrome-openai-summary-comment.zip` file.
